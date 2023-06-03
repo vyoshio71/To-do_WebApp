@@ -19,4 +19,5 @@ Repositório de uma To-Do List atualizada com novas funcionalidades
 • Adicionar e remover tarefas
 • Completar tarefas
 
-### 
+### Deploy
+https://react-interface-550e8s8x7-vyoshio71.vercel.app/
