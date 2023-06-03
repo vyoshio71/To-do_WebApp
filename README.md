@@ -1,6 +1,6 @@
 # react-interface
 
-Repositório de uma To-Do List atualizada com novas funcionalidades
+Repositório de uma To-Do List atualizada com novas funcionalidades, desafio proposto pela Escola DNC para fins de estudos.
 
 ## Ferramentas Utilizadas
 
@@ -19,7 +19,12 @@ Repositório de uma To-Do List atualizada com novas funcionalidades
 • Adicionar e remover tarefas
 • Completar tarefas
 
-### Deploy
+### Aplication
+• Aba de organização acrescentada aonde vc consegue pesquisar, adicionar e remover tarefas
+• Aba de tarefas aonde estão as tarefas do dia para serem realizadas 
+
+### Run App
+• Aqui você pode testar as funcionalidade do App 
 https://react-interface-550e8s8x7-vyoshio71.vercel.app/
 
 ### Imagem
