@@ -1,11 +1,14 @@
 import React from "react";
 import "./index.scss";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <section className="header">
       <div className="menu">
-        <h1>Organização</h1>
+        <Link to={"/organização"} className="page1">
+          Organização
+        </Link>
         <ul>
           <li>Tarefas</li>
         </ul>
